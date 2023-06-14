@@ -1,5 +1,7 @@
 # WEBTRIS/ВЕБТРИС
 A html & javascript based [Tetris](https://en.wikipedia.org/wiki/Tetris) clone
+
+[Playable Hosted Version](https://trzyglow.github.io/data/tris.html)
 ____________
 ## Modifications:
 - Version 1.0
