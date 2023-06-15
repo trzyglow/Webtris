@@ -1,9 +1,7 @@
 # WEBTRIS/ВЕБТРИС
 A html & javascript based [Tetris](https://en.wikipedia.org/wiki/Tetris) clone
-
-[Playable Hosted Version](https://trzyglow.github.io/data/tris.html)
 ____________
-## Modifications:
+## Modifications/Changelog:
 - Version 1.0
 
     - Color Theme ([Bubblegum Midnight](https://github.com/trzyglow/BubblegumMidnight-specsheet))
@@ -17,6 +15,14 @@ ____________
     - Faster Gameplay
     - Fixed Music Loop
     - Overhauled Music Control Script
-    - Second Music Loop Option ([Hej, Sokoły](https://en.wikipedia.org/wiki/Hej_Soko%C5%82y)) [Pre-rendered MIDI]
+    - Added Second Music Loop Option ([Hej, Sokoły](https://en.wikipedia.org/wiki/Hej_Soko%C5%82y)) [Pre-rendered MIDI]
+
+- Version 1.2
+    - Added Third Music Loop Option ([Romanian Folk Dance No.2 - Brâul](https://en.wikipedia.org/wiki/Romanian_Folk_Dances)) [Pre-rendered MIDI]
+    - Updated Audio Files
+        - Better Quality Compression
+        - Reworked MIDI
+    - Code Cleanup
+    - Minor Text Changes & Additions
 ____________
 Based on straker's [Basic Tetris](https://gist.github.com/straker/3c98304f8a6a9174efd8292800891ea1) Gist.
