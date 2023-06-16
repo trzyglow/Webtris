@@ -1,5 +1,9 @@
 # WEBTRIS/ВЕБТРИС
-A html & javascript based [Tetris](https://en.wikipedia.org/wiki/Tetris) clone
+![logo](./data/logopic.png)
+
+A html & javascript based [Tetris](https://en.wikipedia.org/wiki/Tetris) clone.
+
+The Music Credits are listed <a href="./data/CREDITS.md">here</a>.
 ____________
 ## Modifications/Changelog:
 - Version 1.0
@@ -25,6 +29,6 @@ ____________
     - Code Cleanup
     - Minor Text Changes & Additions
 ____________
-Music playback (1.2) might not work under Safari and older versions of MS Edge, due to lacking ogg/vorbis support.
+Music playback might not work under Safari and older versions of MS Edge, due to lacking ogg/vorbis support.
 ____________
 Based on straker's [Basic Tetris](https://gist.github.com/straker/3c98304f8a6a9174efd8292800891ea1) Gist.
