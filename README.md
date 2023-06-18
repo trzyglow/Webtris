@@ -28,7 +28,13 @@ ____________
         - Reworked MIDI
     - Code Cleanup
     - Minor Text Changes & Additions
+
+- Version 1.2.1
+    - Add Logo
+    - Update License
 ____________
 Music playback might not work under Safari and older versions of MS Edge, due to lacking ogg/vorbis support.
+____________
+### The Code of this Project is Licensed under the Apache License 2.0
 ____________
 Based on straker's [Basic Tetris](https://gist.github.com/straker/3c98304f8a6a9174efd8292800891ea1) Gist.

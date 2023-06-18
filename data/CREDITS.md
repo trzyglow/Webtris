@@ -8,7 +8,7 @@
 
 ## Hej, Sokoły
 - Arranged and Sequenced by Timo Heidutzek
-    - The Edited ogg File shipped with Webtris (github.com/trzyglow/Webtris) is licensed under The Unlicense.
+    - The Edited ogg File shipped with Webtris (github.com/trzyglow/Webtris) is licensed under the [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)  License.
 - Unknown Composer
 
 ## Romanian Folk Dance No.2 - Brâul
