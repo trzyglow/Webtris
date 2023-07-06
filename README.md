@@ -1,7 +1,7 @@
 # WEBTRIS/ВЕБТРИС
 ![logo](./data/logopic.png)
 
-A html & javascript based [Tetris](https://en.wikipedia.org/wiki/Tetris) clone.
+A html based [Tetris](https://en.wikipedia.org/wiki/Tetris) clone.
 
 The Music Credits are listed <a href="./data/CREDITS.md">here</a>.
 ____________
@@ -32,6 +32,22 @@ ____________
 - Version 1.2.1
     - Add Logo
     - Update License
+
+- Version 1.3
+    - Audio Preloading (Web optimization)
+    - Logo now links to repo
+    - Add Hard-drop
+    - Change Source-MIDI Synth
+    - Add build-date (MM/YYYY) to version number
+____________
+## Game Controls:
+Up Arrow - Rotation
+
+Left/Right Arrow - Horizontal Movement
+
+Down Arrow - Drop Piece
+
+Space Bar - Hard-drop Piece
 ____________
 Music playback might not work under Safari and older versions of MS Edge, due to lacking ogg/vorbis support.
 ____________
