@@ -39,6 +39,9 @@ ____________
     - Add Hard-drop
     - Change Source-MIDI Synth
     - Add build-date (MM/YYYY) to version number
+
+- Version 1.3.1
+    - Fix Dark Mode
 ____________
 ## Game Controls:
 Up Arrow - Rotation
